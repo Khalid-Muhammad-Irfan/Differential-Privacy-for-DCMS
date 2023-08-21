@@ -1,4 +1,4 @@
-# Differntial-Privacy-for-DCMS
+# Differential-Privacy-for-DCMS
 We have explored the feasibility of utilizing DP-based mechanisms, such as Laplacian and Gaussian mechanisms, to obfuscate the data of data subjects prior to sharing it with the Data Requester via the Data Controller.
 Based on the available works on differential privacy frameworks such as local and global DP, we suggest that a DCMS can be used to map patient data management by hospitals (DCs) and the subsequent access of this data by researchers (DRs). In this setting, DSs can enjoy privacy while hospitals (DCs) can process and share sensitive data with DRs who need patient data for their research. By using DP in DCMS, DSs privacy can be maintained while allowing for the efficient processing and shaing of sensitive data.
 
